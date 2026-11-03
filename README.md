@@ -1,4 +1,4 @@
-# bridgetown-builders
+# Bridge Town
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,131 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-bridgetown-builders is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://bridgetown.builders/
+Bridge Town, built by Knightian Labs, offers version‑controlled financial planning and analysis (FP&A) tools. It provides AI‑assisted, transparent, durable financial models for finance teams, enabling collaborative budgeting, forecasting, and scenario analysis with version history and auditability. The platform emphasizes data integrity, security, and ease of integration with existing financial data sources, aiming to modernize corporate finance workflows.
+
+**Areas:** Finance · AI · FP&A · Collaboration · Version-Control · Company
+
+## Bridge Town on APIs.io
+
+Everything profiled for Bridge Town is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bridgetown-builders/](https://apis.io/providers/bridgetown-builders/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [Bridge Town core API](https://apis.io/apis/bridgetown-builders/core-api/) — Bridge Town core API as documented publicly: 2 operations. Contract generated from the documentation by API Evangelist (2026-11-03); not the provider's own…
+- [Bridge Town getting started API](https://apis.io/apis/bridgetown-builders/getting-started-api/) — Bridge Town getting started API as documented publicly: 4 operations. Contract generated from the documentation by API Evangelist (2026-11-03); not the…
+- [Bridge Town guides API](https://apis.io/apis/bridgetown-builders/guides-api/) — Bridge Town guides API as documented publicly: 27 operations. Contract generated from the documentation by API Evangelist (2026-11-03); not the provider's…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (9)
+
+The data models the API reads and writes.
+
+- [GetApiFeedResponse](https://apis.io/schemas/bridgetown-builders/bridgetown-builders-get-api-feed-response/)
+- [PatchApiTenantRequest](https://apis.io/schemas/bridgetown-builders/bridgetown-builders-patch-api-tenant-request/)
+- [PostApiInvitesRequest](https://apis.io/schemas/bridgetown-builders/bridgetown-builders-post-api-invites-request/)
+- [PostApiModelsModelnameDataSourcesUploadSessionsRequest](https://apis.io/schemas/bridgetown-builders/bridgetown-builders-post-api-models-modelname-data-sources-upload-sessions-request/)
+- [PostApiModelsModelnameDataSourcesUploadSessionsResponse](https://apis.io/schemas/bridgetown-builders/bridgetown-builders-post-api-models-modelname-data-sources-upload-sessions-response/)
+- [PostApiModelsModelnameExcelConversionsUploadSessionsResponse](https://apis.io/schemas/bridgetown-builders/bridgetown-builders-post-api-models-modelname-excel-conversions-upload-sessions-response/)
+- [PostApiModelsModelnameRunsResponse](https://apis.io/schemas/bridgetown-builders/bridgetown-builders-post-api-models-modelname-runs-response/)
+- [PostApiTokensRequest](https://apis.io/schemas/bridgetown-builders/bridgetown-builders-post-api-tokens-request/)
+- [PostMcpRequest](https://apis.io/schemas/bridgetown-builders/bridgetown-builders-post-mcp-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Bridgetown Builders Context](https://apis.io/jsonld/bridgetown-builders/bridgetown-builders-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Bridge Town API Rules](https://apis.io/rules/bridgetown-builders/bridgetown-builders-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bridgetown Builders Authentication](https://apis.io/security/bridgetown-builders/bridgetown-builders-authentication/)
+- [Bridgetown Builders Domain Security](https://apis.io/security/bridgetown-builders/bridgetown-builders-domain-security/)
+- [Bridgetown Builders Trust Center](https://apis.io/security/bridgetown-builders/bridgetown-builders-trust-center/)
+- [Bridgetown Builders Vulnerability Disclosure](https://apis.io/security/bridgetown-builders/bridgetown-builders-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Bridgetown Builders Plans Pricing](https://apis.io/plans/bridgetown-builders/bridgetown-builders-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bridgetown.builders/)
+- [Documentation](https://www.bridgetown.builders/docs)
+- [Getting started](https://www.bridgetown.builders/about)
+- [Pricing](https://www.bridgetown.builders/pricing)
+- [Blog](https://www.bridgetown.builders/blog)
+- [Security](https://www.bridgetown.builders/security)
+- [Compliance](https://www.bridgetown.builders/security)
+- [Terms of service](https://www.bridgetown.builders/terms)
+- [Privacy policy](https://www.bridgetown.builders/privacy)
+- [Status](https://www.bridgetown.builders/status)
+
+## API Evangelist rating
+
+**Kin Score 59.0** — strong · rubric 0.25.0 · scored 2026-11-03
+
+| Facet | Score |
+|---|---|
+| Discoverability | 71.4 |
+| Contract quality | 53.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 79.5 |
+
+**Agent readiness 32.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 32.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bridgetown-builders/](https://apis.io/providers/bridgetown-builders/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bridge Town: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bridgetown-builders/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
